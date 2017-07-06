@@ -21,8 +21,8 @@ namespace AlaskAir.MobileDashboard.Controllers
 
         // Authorization to connect to the dsodatabase
         // Delete these after every session, because it's authorization
-        private const string endpoint = "https://dsodocumentdb.documents.azure.com:443/";
-        private const string primaryKey = "zdztF757TrQ0walwRd8Sa1FKfHJD9ESY0ECqwbN3BLIhy4xum27zuDS9F2KKiloPGHUv4nuJPRHQEM6X48Puxg==";
+        private const string endpoint = "";
+        private const string primaryKey = "";
 
         // Fields that need to be accessed globally
         private Database database;
